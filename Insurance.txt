@@ -1,0 +1,8 @@
+"Predictive Modeling of Medical Insurance Charges Using Machine Learning Techniques"
+
+In recent years, the healthcare industry has witnessed significant advancements in data-driven decision-making. One key area of interest is accurately estimating medical insurance costs based on a person’s health profile and demographic information. This project focuses on developing predictive models to estimate individual medical insurance charges using supervised machine learning techniques. The dataset, sourced from Kaggle, includes key attributes such as age, sex, BMI, smoking status, number of children, and region.
+
+The data was preprocessed by handling categorical features using one-hot encoding and scaling numerical features where necessary. Various regression algorithms, including Linear Regression and Random Forest Regressor, were applied to model the relationship between input features and the target variable — medical insurance charges. Model performance was evaluated using metrics such as Root Mean Squared Error (RMSE) and R² score. Feature importance analysis was also conducted to identify the most influential factors affecting insurance costs.
+
+The results demonstrated that tree-based models, particularly Random Forest, outperformed linear models in prediction accuracy. This study highlights the effectiveness of machine learning in the insurance domain and its potential application in risk assessment and policy pricing strategies.
+
